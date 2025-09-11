@@ -1,0 +1,15 @@
+ h1 {
+                color:red;
+                background-color:green;
+                text-align:right;
+
+            }
+            #main_title {
+                color:aqua;
+                background-color:violet;
+            }
+
+            .docenter {
+                color:crimson;
+                text-align:center;
+            }
